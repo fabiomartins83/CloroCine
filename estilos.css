@@ -1,0 +1,17 @@
+body {
+	background-color: #E5E5E5;
+}
+
+.nav-extended {
+	background-image: url("logo.jpg");
+	background-size: cover;
+	background-blend-mode: soft-light;
+}
+
+nav ul li.active, .tab a.active {
+	border-bottom: solid 2px #FFF;
+}
+
+.nav-header h1 {
+	text-shadow: 2px 2px 8px #000;
+}
